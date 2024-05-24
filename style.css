@@ -1,7 +1,14 @@
+* {
+  background-color: black;
+}
+body {
+  color:white;
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+}
 footer {
   text-align: center;
   position: fixed;
   left:0;
-  bottom:0;
+  bottom:2em;
   width:100%;
 }
